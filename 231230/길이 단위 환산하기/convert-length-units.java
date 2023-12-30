@@ -6,6 +6,9 @@ public class Main {
         double n = sc.nextDouble();
 
 
-        System.out.println ("435.9");
+        n = n * 30.48;
+
+
+        System.out.printf("%.1f", n);
     }
 }
