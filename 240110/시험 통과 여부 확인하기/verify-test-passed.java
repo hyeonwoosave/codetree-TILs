@@ -10,7 +10,7 @@ public class Main {
         }
         else {
            int a = 80 - n;
-           System.out.println(a + "more score");
+           System.out.println(a + " " + "more score");
         }
 
     }
